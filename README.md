@@ -6,4 +6,6 @@
 - BEM
 - JavaScript
 - Gulp
+- Figma, Photoshop
+
 
